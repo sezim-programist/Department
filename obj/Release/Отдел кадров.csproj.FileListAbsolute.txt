@@ -1,0 +1,22 @@
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\bin\Release\DB.mdf
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\bin\Release\DB_log.ldf
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\bin\Release\Отдел кадров.exe.config
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\bin\Release\Отдел кадров.exe
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\bin\Release\Отдел кадров.pdb
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Release\Отдел кадров.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Release\Отдел_кадров.MainForm.resources
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Release\Отдел_кадров.Properties.Resources.resources
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Release\Отдел_кадров.WinForm.AddEditBranchesForm.resources
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Release\Отдел_кадров.WinForm.AddEditPositionsForm.resources
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Release\Отдел_кадров.WinForm.AddEditStaffForm.resources
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Release\Отдел_кадров.WinForm.BranchesForm.resources
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Release\Отдел_кадров.WinForm.PositionsForm.resources
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Release\Отдел_кадров.WinForm.ReportAForm.resources
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Release\Отдел_кадров.WinForm.ReportBForm.resources
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Release\Отдел_кадров.WinForm.ReportCForm.resources
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Release\Отдел_кадров.WinForm.ReportDForm.resources
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Release\Отдел_кадров.WinForm.StaffForm.resources
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Release\Отдел кадров.csproj.GenerateResource.cache
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Release\Отдел кадров.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Release\Отдел кадров.exe
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Release\Отдел кадров.pdb

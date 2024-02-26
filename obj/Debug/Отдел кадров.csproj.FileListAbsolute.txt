@@ -1,0 +1,65 @@
+D:\Projects\Отдел кадров проект\Отдел кадров\bin\Debug\BD.accdb
+D:\Projects\Отдел кадров проект\Отдел кадров\bin\Debug\Отдел кадров.exe.config
+D:\Projects\Отдел кадров проект\Отдел кадров\bin\Debug\Отдел кадров.exe
+D:\Projects\Отдел кадров проект\Отдел кадров\bin\Debug\Отдел кадров.pdb
+D:\Projects\Отдел кадров проект\Отдел кадров\obj\Debug\Отдел_кадров.MainForm.resources
+D:\Projects\Отдел кадров проект\Отдел кадров\obj\Debug\Отдел_кадров.Properties.Resources.resources
+D:\Projects\Отдел кадров проект\Отдел кадров\obj\Debug\Отдел_кадров.WinForm.StaffForm.resources
+D:\Projects\Отдел кадров проект\Отдел кадров\obj\Debug\Отдел кадров.csproj.GenerateResource.cache
+D:\Projects\Отдел кадров проект\Отдел кадров\obj\Debug\Отдел кадров.csproj.CoreCompileInputs.cache
+D:\Projects\Отдел кадров проект\Отдел кадров\obj\Debug\Отдел кадров.exe
+D:\Projects\Отдел кадров проект\Отдел кадров\obj\Debug\Отдел кадров.pdb
+D:\Projects\Отдел кадров проект\Отдел кадров\obj\Debug\Отдел кадров.csproj.AssemblyReference.cache
+D:\Projects\Отдел кадров проект\Отдел кадров\obj\Debug\Отдел_кадров.WinForm.AddEditStaffForm.resources
+D:\Projects\Отдел кадров проект\Отдел кадров\obj\Debug\Отдел_кадров.WinForm.BranchesForm.resources
+D:\Projects\Отдел кадров проект\Отдел кадров\obj\Debug\Отдел_кадров.WinForm.AddEditBranchesForm.resources
+D:\Projects\Отдел кадров проект\Отдел кадров\obj\Debug\Отдел_кадров.WinForm.AddEditPositionsForm.resources
+D:\Projects\Отдел кадров проект\Отдел кадров\obj\Debug\Отдел_кадров.WinForm.PositionsForm.resources
+D:\Projects\Отдел кадров проект\Отдел кадров\obj\Debug\Отдел_кадров.WinForm.ReportAForm.resources
+D:\Projects\Отдел кадров проект\Отдел кадров\obj\Debug\Отдел_кадров.WinForm.ReportBForm.resources
+D:\Projects\Отдел кадров проект\Отдел кадров\obj\Debug\Отдел_кадров.WinForm.ReportCForm.resources
+D:\Projects\Отдел кадров проект\Отдел кадров\obj\Debug\Отдел_кадров.WinForm.ReportDForm.resources
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\bin\Debug\DB.mdf
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\bin\Debug\DB_log.ldf
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел_кадров.MainForm.resources
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел_кадров.Properties.Resources.resources
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел_кадров.WinForm.AddEditBranchesForm.resources
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел_кадров.WinForm.AddEditPositionsForm.resources
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел_кадров.WinForm.AddEditStaffForm.resources
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел_кадров.WinForm.BranchesForm.resources
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел_кадров.WinForm.PositionsForm.resources
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел_кадров.WinForm.ReportAForm.resources
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел_кадров.WinForm.ReportBForm.resources
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел_кадров.WinForm.ReportCForm.resources
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел_кадров.WinForm.ReportDForm.resources
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел_кадров.WinForm.StaffForm.resources
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел кадров.csproj.GenerateResource.cache
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел кадров.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел кадров.exe
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел кадров.pdb
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\bin\Debug\Отдел кадров.exe.config
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\bin\Debug\Отдел кадров.exe
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\bin\Debug\Отдел кадров.pdb
+C:\Users\Andrey\Desktop\Unlearn\Задачи на продажу\Номер проекта 212\Отдел кадров SQL\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел кадров.csproj.AssemblyReference.cache
+C:\Users\User\Searches\Desktop\Отдел кадров проект SQL\Отдел кадров\bin\Debug\DB.mdf
+C:\Users\User\Searches\Desktop\Отдел кадров проект SQL\Отдел кадров\bin\Debug\DB_log.ldf
+C:\Users\User\Searches\Desktop\Отдел кадров проект SQL\Отдел кадров\bin\Debug\Отдел кадров.exe.config
+C:\Users\User\Searches\Desktop\Отдел кадров проект SQL\Отдел кадров\bin\Debug\Отдел кадров.exe
+C:\Users\User\Searches\Desktop\Отдел кадров проект SQL\Отдел кадров\bin\Debug\Отдел кадров.pdb
+C:\Users\User\Searches\Desktop\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел кадров.csproj.AssemblyReference.cache
+C:\Users\User\Searches\Desktop\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел_кадров.MainForm.resources
+C:\Users\User\Searches\Desktop\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел_кадров.Properties.Resources.resources
+C:\Users\User\Searches\Desktop\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел_кадров.WinForm.AddEditBranchesForm.resources
+C:\Users\User\Searches\Desktop\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел_кадров.WinForm.AddEditPositionsForm.resources
+C:\Users\User\Searches\Desktop\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел_кадров.WinForm.AddEditStaffForm.resources
+C:\Users\User\Searches\Desktop\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел_кадров.WinForm.BranchesForm.resources
+C:\Users\User\Searches\Desktop\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел_кадров.WinForm.PositionsForm.resources
+C:\Users\User\Searches\Desktop\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел_кадров.WinForm.ReportAForm.resources
+C:\Users\User\Searches\Desktop\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел_кадров.WinForm.ReportBForm.resources
+C:\Users\User\Searches\Desktop\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел_кадров.WinForm.ReportCForm.resources
+C:\Users\User\Searches\Desktop\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел_кадров.WinForm.ReportDForm.resources
+C:\Users\User\Searches\Desktop\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел_кадров.WinForm.StaffForm.resources
+C:\Users\User\Searches\Desktop\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел кадров.csproj.GenerateResource.cache
+C:\Users\User\Searches\Desktop\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел кадров.csproj.CoreCompileInputs.cache
+C:\Users\User\Searches\Desktop\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел кадров.exe
+C:\Users\User\Searches\Desktop\Отдел кадров проект SQL\Отдел кадров\obj\Debug\Отдел кадров.pdb
